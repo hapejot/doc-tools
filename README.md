@@ -44,6 +44,13 @@ This is the second sentence.
 And this is the third!
 ```
 
+See `example.md` and `example_formatted.md` for a comprehensive demonstration.
+
+**Known Limitations:**
+- Abbreviations like "Dr.", "Mr.", etc. may be treated as sentence endings
+- Decimal numbers like "3.14" may be split incorrectly
+- These edge cases can be improved in future versions
+
 ## Building
 
 ```bash
