@@ -15,7 +15,7 @@ I need one for Windows but I don't want to implement a full Linux environment ju
 
 ### Key Features
 
-- **Protocol Compatible**: Implements rsync protocol 32, making it fully compatible with standard Linux rsync installations
+- **Protocol Compatible**: Implements rsync protocol 32 (the current/latest version as of 2025), making it fully compatible with standard Linux rsync installations
 - **Cross-platform**: Works on Windows, Linux, and macOS
 - **Drop-in Replacement**: Can act as both client and daemon, interoperating with Linux rsync servers
 - **Pure Rust**: Written in Rust for safety, security, and performance
