@@ -2,6 +2,10 @@
 
 Tools for working with markdown documentation
 
+## Documentation
+
+- **[Rsync on Windows](RSYNC_WINDOWS.md)** - Guide to using Rust-based rsync implementations on Windows that are compatible with Linux rsync
+
 ## Tools
 
 ### md-sentence-format
